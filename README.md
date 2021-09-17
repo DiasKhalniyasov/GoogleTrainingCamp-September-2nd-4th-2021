@@ -1,9 +1,14 @@
 # GoogleTrainingCamp-September-2nd-4th-2021
 GoogleTrainingCamp in Sapienza University of Rome on building an image search engine
 
+Team Matteo and Dias Two legends
+Members: Dias Khalniyasov khalniyasov.1954228@studenti.uniroma1.it
+Matteo Di Mauro dimauro.1954323@studenti.uniroma1.it
+
 Main goal was to build an image search engine on COCO dataset in two steps:
 1. Train a model for image captioning.
 2. Build a similarity function for generated queries.
+
 
 The baseline (InceptionV3 and Jaccard-Distance; score 0.06597) could be found here https://github.com/SapienzaTrainingCamp/GoogleTrainingCamp
 
