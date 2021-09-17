@@ -7,6 +7,6 @@ Main goal was to build an image search engine on COCO dataset in two steps:
 
 The baseline (InceptionV3 and Jaccard-Distance; score 0.06597) could be found here https://github.com/SapienzaTrainingCamp/GoogleTrainingCamp
 
-In final submission, our team used pretrained InceptionV3 and pretrained Glove 6B. (score 0.13732)
+In final submission, our team used pretrained InceptionV3 and pretrained Glove 6B with Cosine Similarity. (score 0.13732)
 
 All code was executed on Colab, due to short time given on the task.
